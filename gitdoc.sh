@@ -1,4 +1,4 @@
-pt update -y
+apt update -y
 apt install git -y
 git --version
 git config --global user.name "name"
